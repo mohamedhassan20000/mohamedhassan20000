@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<h3 align="left">Languages</h3>
+<h3 align="left">🛠️ Technologies that I work with</h3>
 
 ###
 
