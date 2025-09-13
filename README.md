@@ -1,19 +1,41 @@
-<h1 align="left">Hi 👋! My name is Mohamed Hassan</h1>
+<h1 align="left">Hi There I'm Mohamed Hassan 👋</h1>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Software Engineering Student</h2>
+<p align="left">I'm a final-year Software Engineering student passionate about Web Development and Software Projects.</p>
+
+###
+
+<p align="left">🎓 Final-year Software Engineering student focusing on web development.  <br><br>🛠️ Currently learning Front-End Development and building responsive interfaces.  <br><br>📚 Next step is improving my JavaScript skills and exploring advanced web topics.  <br><br>🚀 Passionate about coding, problem-solving, and creating useful digital solutions.</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedhassan20000&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhassan20000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan20000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdiNnJkcWE4dzhic24zM3NqY3hmd242c2U1eDFnMHZ1cWk1MGVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
+</div>
+
+###
+
+<h2 align="left">Contact Me</h2>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedhassan20000.mohamedhassan20000&"  />
 </div>
 
 ###
@@ -36,26 +58,10 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdiNnJkcWE4dzhic24zM3NqY3hmd242c2U1eDFnMHZ1cWk1MGVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedhassan20000.mohamedhassan20000&"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan20000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
