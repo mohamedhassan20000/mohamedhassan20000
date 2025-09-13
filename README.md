@@ -2,9 +2,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Software Engineering Student</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedhassan20000&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -12,6 +16,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">Languages</h3>
 
@@ -37,17 +43,23 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdiNnJkcWE4dzhic24zM3NqY3hmd242c2U1eDFnMHZ1cWk1MGVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedhassan20000.mohamedhassan20000&"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedhassan20000/mohamedhassan20000/output/pacman-contribution-graph-dark.svg">
