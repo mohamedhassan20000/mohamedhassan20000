@@ -1,85 +1,65 @@
-<h1 align="left">Hi There I'm Mohamed Hassan 👋</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Hassan</h1>
 
-###
+<h3 align="center">Frontend-Focused Developer | Software Engineering Student | Exploring Backend Development & Building Real-World Web Apps</h3>
 
-<br clear="both">
+<p align="center">
+  Building software that solves real-world problems 🚀
+</p>
 
-<p align="left">I'm a final-year Software Engineering student passionate about Web Development and Software Projects.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhassan20000&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhassan20000" /> </p>
 
-###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhassan20000" alt="mohamedhassan20000" /></a> </p>
 
-<p align="left">🎓 Final-year Software Engineering student focusing on web development.  <br><br>🛠️ Currently learning Front-End Development and building responsive interfaces.  <br><br>📚 Next step is improving my JavaScript skills and exploring advanced web topics.  <br><br>🚀 Passionate about coding, problem-solving, and creating useful digital solutions.</p>
+- 🔭 I’m currently working on [ClinicFlow CRM](https://github.com/mohamedhassan20000/clinicflow-crm)
 
-###
+- 🌱 I’m currently learning **System Design, Secure Authentication, PostgreSQL RLS, CI/CD, and Production Scaling**
 
-<br clear="both">
+- 👯 I’m looking to collaborate on **Open Source SaaS & Healthcare Projects**
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWdiNnJkcWE4dzhic24zM3NqY3hmd242c2U1eDFnMHZ1cWk1MGVuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
-</div>
+- 🤝 I’m looking for help with **Scalable Architecture & Performance Optimization**
 
-###
+- 👨‍💻 All of my projects are available at [https://github.com/mohamedhassan20000](https://github.com/mohamedhassan20000)
 
-<h2 align="left">Contact Me</h2>
+- 💬 Ask me about **Next.js, TypeScript, Supabase, CRM Systems, Frontend Architecture, and UI/UX**
 
-###
+- 📫 How to reach me **mohamed.hassan.engenius@gmail.com**
 
-<div align="left">
-  <a href="https://www.instagram.com/mohamedhassan_112/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
+- ⚡ Fun fact **I enjoy building software that solves everyday problems for myself and the people around me — and I love seeing the impact, even from small solutions.**
 
-  <a href="mailto:mohamed.hassan.engenius@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohamed-hassan-95727b368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hassan-95727b368/" height="30" width="40" /></a>
+<a href="https://instagram.com/mohamedhassan_112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedhassan_112" height="30" width="40" /></a>
+</p>
 
-  <a href="https://www.linkedin.com/in/mohamed-hassan-95727b368/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> < </p>
 
-###
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan20000&show_icons=true&locale=en&layout=compact" alt="mohamedhassan20000" /></p>
 
-<br clear="both">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhassan20000&show_icons=true&locale=en" alt="mohamedhassan20000" /></p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohamedhassan20000.mohamedhassan20000&"  />
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhassan20000&" alt="mohamedhassan20000" /></p>
 
-###
 
-<br clear="both">
 
-<h3 align="left">🛠️ Technologies that I work with</h3>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
-</div>
 
-###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhassan20000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
 
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedhassan20000/mohamedhassan20000/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedhassan20000/mohamedhassan20000/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamedhassan20000/mohamedhassan20000/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+
+
+
+
+
+
+
+
+
+
+
